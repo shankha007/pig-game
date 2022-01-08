@@ -14,7 +14,7 @@ Click on 'New Game' to start a brand game. It will reset the game totally at any
 
 ## BUGS
 
-- [] The page is not responsive yet. Works fine on PC but breaks in mobile devices.
+- [ ] The page is not responsive yet. Works fine on PC but breaks in mobile devices.
 
 ## Play The Game
 
